@@ -1,0 +1,2 @@
+id	acc	role	best_ref	pident	qcov	mean_plddt	score	flags
+cand_tnaA_ecoli	P0A853	tryptophanase	ref_tnaA_ecoli	100.0	100.0	96.6	0.983	-

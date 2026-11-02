@@ -1,0 +1,5 @@
+id,uniprot_acc,role
+ref_tnaA_ecoli,P0A853,tryptophanase
+ref_ndoB,TO_CURATE,naphthalene_dioxygenase_alpha
+ref_fmo_maminisulfidivorans,TO_CURATE,flavin_monooxygenase
+ref_styA,TO_CURATE,styrene_monooxygenase

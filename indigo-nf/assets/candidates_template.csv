@@ -1,0 +1,4 @@
+id,uniprot_acc,role
+cand_tnaA_ecoli,P0A853,tryptophanase
+cand_oxygenase_1,TO_CURATE,indole_oxygenase
+cand_oxygenase_2,TO_CURATE,indole_oxygenase
