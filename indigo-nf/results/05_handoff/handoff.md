@@ -4,7 +4,11 @@
 
 | rank | id | UniProt | score | pLDDT | best ref | flags |
 |---|---|---|---|---|---|---|
-| 1 | cand_tnaA_ecoli | P0A853 | 0.983 | 96.6 | ref_tnaA_ecoli | - |
+| 1 | ctrl_bFMO_Q83XK4 | Q83XK4 | 0.9885 | 97.7 | ref_bFMO_maminisulfidivorans | - |
+| 2 | cand_StyA_O06834 | O06834 | 0.9865 | 97.3 | ref_styA_pfluorescens | - |
+| 3 | ctrl_ndoB_P0A110 | P0A110 | 0.9855 | 97.1 | ref_ndoB_pseudomonas_9816 | - |
+| 4 | cand_tnaA_ecoli | P0A853 | 0.983 | 96.6 | ref_tnaA_ecoli | - |
+| 5 | cand_bFMO_A0A1I3XW35 | A0A1I3XW35 | 0.9735 | 97.6 | ref_bFMO_maminisulfidivorans | - |
 
 ## Pathway feasibility (FBA, host GEM)
 

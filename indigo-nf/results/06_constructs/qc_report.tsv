@@ -1,0 +1,17 @@
+item	kind	aa	nt	gc	cai	max_homopolymer	forbidden	translation_ok
+ctrl_bFMO_Q83XK4	CDS	456	1371	0.485	0.725	6	-	True
+cand_bFMO_A0A1I3XW35	CDS	456	1371	0.487	0.727	6	-	True
+cand_bFMO_A0A1E3GUV8	CDS	456	1371	0.489	0.712	5	-	True
+cand_StyA_O06834	CDS	415	1248	0.524	0.704	6	-	True
+cand_StyB_O06835	CDS	170	513	0.532	0.692	5	-	True
+ctrl_bFMO_Q83XK4_Y207S	CDS	456	1371	0.487	0.725	6	-	True
+FMO_Q83XK4.PET	insert	-	1392	0.481	-	6	-	sites_ok=True {'NdeI': 1, 'XhoI': 1, 'BsaI': 0, 'BsmBI': 0}
+FMO_Q83XK4.GG	insert	-	1402	0.481	-	6	-	sites_ok=True {'NdeI': 0, 'XhoI': 0, 'BsaI': 2, 'BsmBI': 0}
+FMO_A0A1I3XW35.PET	insert	-	1392	0.483	-	6	-	sites_ok=True {'NdeI': 1, 'XhoI': 1, 'BsaI': 0, 'BsmBI': 0}
+FMO_A0A1I3XW35.GG	insert	-	1402	0.483	-	6	-	sites_ok=True {'NdeI': 0, 'XhoI': 0, 'BsaI': 2, 'BsmBI': 0}
+FMO_A0A1E3GUV8.PET	insert	-	1392	0.485	-	5	-	sites_ok=True {'NdeI': 1, 'XhoI': 1, 'BsaI': 0, 'BsmBI': 0}
+FMO_A0A1E3GUV8.GG	insert	-	1402	0.485	-	5	-	sites_ok=True {'NdeI': 0, 'XhoI': 0, 'BsaI': 2, 'BsmBI': 0}
+SMO_StyAB.PET	insert	-	1798	0.520	-	6	-	sites_ok=True {'NdeI': 1, 'XhoI': 1, 'BsaI': 0, 'BsmBI': 0}
+SMO_StyAB.GG	insert	-	1808	0.520	-	6	-	sites_ok=True {'NdeI': 0, 'XhoI': 0, 'BsaI': 2, 'BsmBI': 0}
+NEG_Q83XK4_Y207S.PET	insert	-	1392	0.483	-	6	-	sites_ok=True {'NdeI': 1, 'XhoI': 1, 'BsaI': 0, 'BsmBI': 0}
+NEG_Q83XK4_Y207S.GG	insert	-	1402	0.483	-	6	-	sites_ok=True {'NdeI': 0, 'XhoI': 0, 'BsaI': 2, 'BsmBI': 0}

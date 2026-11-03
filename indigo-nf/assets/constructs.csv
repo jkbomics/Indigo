@@ -1,0 +1,6 @@
+construct_id,members,mutations,notes
+FMO_Q83XK4,ctrl_bFMO_Q83XK4,,Benchmark bFMO
+FMO_A0A1I3XW35,cand_bFMO_A0A1I3XW35,,97% identity variant
+FMO_A0A1E3GUV8,cand_bFMO_A0A1E3GUV8,,87% identity variant
+SMO_StyAB,cand_StyA_O06834;cand_StyB_O06835,,Two-component system; StyA then StyB as an operon
+NEG_Q83XK4_Y207S,ctrl_bFMO_Q83XK4,ctrl_bFMO_Q83XK4:Y207S,Negative control: reported to lack indole oxygenation (verify numbering)

@@ -1,0 +1,8 @@
+name: indigo-construct
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - dnachisel==3.2.16

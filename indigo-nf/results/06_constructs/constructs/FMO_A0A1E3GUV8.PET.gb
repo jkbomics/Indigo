@@ -1,0 +1,55 @@
+LOCUS       FMO_A0A1E3GUV8_P        1392 bp    DNA     linear   UNK 01-JAN-1980
+DEFINITION  FMO_A0A1E3GUV8 PET cassette (design, not verified in the lab).
+ACCESSION   FMO_A0A1E3GUV8_PET
+VERSION     FMO_A0A1E3GUV8_PET
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..6
+                     /label="5' pad"
+     misc_feature    7..9
+                     /label="NdeI (CATATG; ATG is the start codon)"
+     CDS             10..1380
+                     /label="cand_bFMO_A0A1E3GUV8"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation="MSTRVAVLGAGPSGLAQLRAFQSAQAKGAEIPEIVCFEKQSDWGG
+                     LWNYTWRTGLDENGEPVHGSMYRYLWSNGPKECLEFADYTFEEHFGKPIASYPPREVLF
+                     DYIKGRVEKAGVRKYIRFNTAVRNVTYDDASQKFTVTVQDHTTDTVYAEEFDYVVCATG
+                     HFSTPKVPTFEGFDKFGGRILHAHDFRDALEFKDKDILLVGSSYSAEDIGSQCYKYGAR
+                     SLISCYRSAPMGYKWPENWDEKPNLVRVDTDTAYFMDGSSKKIDAIILCTGYLHYFPFL
+                     SDDLRLKTNNRLWPLNLYKGVVWEDNPKFFYLGMQDQWYSFNMFDAQAWYARDIIMGRI
+                     PLPSLDEMRAHSMMWREKELTLETAEEMYTYQGDYIQELIDATDYPSFDIPAVNQTFLE
+                     WKYHKKKNIMTFRDHSYRSLMTGTMSPPHHTPWLEALDDSLEAYLSDKSEMPVAKEA"
+     misc_feature    1381..1386
+                     /label="XhoI"
+     misc_feature    1387..1392
+                     /label="3' pad"
+ORIGIN
+        1 ttaattcata tgtctacccg cgttgctgtg cttggtgcag gaccatcggg tcttgcgcag
+       61 ttacgggcgt ttcaaagcgc gcaggcaaaa ggcgccgaga ttccagagat cgtttgtttt
+      121 gagaaacaaa gtgactgggg tgggttgtgg aattatacat ggcgtacggg cctggatgaa
+      181 aacggcgaac ccgtgcatgg gtcaatgtac cgttatctgt ggtctaatgg tcccaaagaa
+      241 tgcctggagt tcgcggatta tacctttgaa gaacatttcg gcaagcctat cgccagttat
+      301 cctccacgtg aagttctgtt tgattatatc aaaggccgcg tggaaaaagc tggtgtacgc
+      361 aaatacatcc gctttaacac ggcggtgcgc aatgttacct atgatgacgc gtcacaaaaa
+      421 tttaccgtga ccgtccagga ccacacaacg gatactgttt atgcagagga atttgactat
+      481 gtggtctgcg caactggcca tttcagtact cctaaagtcc cgacgttcga aggctttgat
+      541 aaatttggcg gacgtatact gcacgctcat gattttaggg acgctttaga gttcaaggac
+      601 aaggatattc tcctggtagg tagctcttac tcggccgaag atattgggag ccagtgctat
+      661 aaatatggtg cacgtagcct gatctcatgt tatcgtagcg cgccgatggg ctacaaatgg
+      721 ccggaaaatt gggatgaaaa accgaacttg gttcgagtgg ataccgacac cgcctatttt
+      781 atggacggct ctagcaaaaa gattgatgcc atcatcctgt gtacgggtta tctacactac
+      841 tttccgtttc tgtccgatga tctgcggctg aaaaccaata accgcttatg gccgctcaac
+      901 ttatacaaag gtgtcgtctg ggaggataac ccgaagttct tctacctggg catgcaagac
+      961 cagtggtata gctttaatat gttcgatgcg caggcctggt acgcacgtga tattattatg
+     1021 ggtcgtattc cgctgccgtc cttggatgaa atgcgcgcac attccatgat gtggagagag
+     1081 aaggagttga ccttagagac agcggaagaa atgtatacat accaagggga ctacattcag
+     1141 gaactgatcg acgccactga ttatccgagc ttcgacattc cagcggtgaa ccagaccttc
+     1201 ctggaatgga agtaccacaa gaagaaaaac attatgacgt tccgcgatca ctcgtatcgc
+     1261 tctctcatga ccggaacgat gagtcccccg catcataccc cttggcttga agcgctggat
+     1321 gattccttgg aagcttacct gtcggacaaa tcagaaatgc cggtagccaa agaagcctaa
+     1381 ctcgagaatt aa
+//

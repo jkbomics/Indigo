@@ -205,17 +205,18 @@ $(function() {
 
   // Nextflow report data
   window.data = {
-    "elapsed": "3m 33s",
-    "beginningMillis": 1793641652809,
-    "endingMillis": 1793641866018,
+    "elapsed": "28.9s",
+    "beginningMillis": 1793700660526,
+    "endingMillis": 1793701074886,
     "processes": [
-        {"label": "FETCH_REF (reference_enzymes)", "cached": false, "index": 0, "times": [{"starting_time": 1793641655647, "ending_time": 1793641655735}, {"starting_time": 1793641655735, "ending_time": 1793641663528, "label": "33.6s \/ 24.7 MB"}, {"starting_time": 1793641663528, "ending_time": 1793641689287}]},
-        {"label": "FETCH_CAND (candidates_template)", "cached": false, "index": 1, "times": [{"starting_time": 1793641689394, "ending_time": 1793641689489}, {"starting_time": 1793641689489, "ending_time": 1793641689715, "label": "4.1s \/ 17.4 MB"}, {"starting_time": 1793641689715, "ending_time": 1793641693488}]},
-        {"label": "STRUCT_QC (1)", "cached": false, "index": 2, "times": [{"starting_time": 1793641693572, "ending_time": 1793641693590}, {"starting_time": 1793641693590, "ending_time": 1793641694097, "label": "3.4s \/ 12.9 MB"}, {"starting_time": 1793641694097, "ending_time": 1793641696927}]},
-        {"label": "PATHWAY_FBA (1)", "cached": false, "index": 3, "times": [{"starting_time": 1793641793113, "ending_time": 1793641793183}, {"starting_time": 1793641793183, "ending_time": 1793641808124, "label": "20.2s \/ 489.6 MB"}, {"starting_time": 1793641808124, "ending_time": 1793641813265}]},
-        {"label": "DIAMOND_REF (1)", "cached": false, "index": 4, "times": [{"starting_time": 1793641856740, "ending_time": 1793641856821}, {"starting_time": 1793641856821, "ending_time": 1793641856887, "label": "4.2s \/ 3.6 MB"}, {"starting_time": 1793641856887, "ending_time": 1793641860961}]},
-        {"label": "SCORE_RANK (1)", "cached": false, "index": 5, "times": [{"starting_time": 1793641861100, "ending_time": 1793641861163}, {"starting_time": 1793641861163, "ending_time": 1793641861358, "label": "1.7s \/ 10.1 MB"}, {"starting_time": 1793641861358, "ending_time": 1793641862848}]},
-        {"label": "HANDOFF (1)", "cached": false, "index": 6, "times": [{"starting_time": 1793641862942, "ending_time": 1793641862951}, {"starting_time": 1793641862951, "ending_time": 1793641863030, "label": "1.7s \/ 13.3 MB"}, {"starting_time": 1793641863030, "ending_time": 1793641864636}]}
+        {"label": "FETCH_CAND (candidates_template)", "cached": false, "index": 0, "times": [{"starting_time": 1793701048282, "ending_time": 1793701048359}, {"starting_time": 1793701048359, "ending_time": 1793701053264, "label": "7.2s \/ 27 MB"}, {"starting_time": 1793701053264, "ending_time": 1793701055466}]},
+        {"label": "PATHWAY_FBA (1)", "cached": true, "index": 1, "times": [{"starting_time": 1793700660526, "ending_time": 1793700660593}, {"starting_time": 1793700660593, "ending_time": 1793700698677, "label": "39.8s \/ 485 MB \/ CACHED"}, {"starting_time": 1793700698677, "ending_time": 1793700700311}]},
+        {"label": "FETCH_REF (reference_enzymes)", "cached": false, "index": 2, "times": [{"starting_time": 1793701055506, "ending_time": 1793701055566}, {"starting_time": 1793701055566, "ending_time": 1793701057893, "label": "4s \/ 27 MB"}, {"starting_time": 1793701057893, "ending_time": 1793701059536}]},
+        {"label": "STRUCT_QC (1)", "cached": false, "index": 3, "times": [{"starting_time": 1793701059573, "ending_time": 1793701059636}, {"starting_time": 1793701059636, "ending_time": 1793701062207, "label": "4.2s \/ 28.6 MB"}, {"starting_time": 1793701062207, "ending_time": 1793701063787}]},
+        {"label": "DIAMOND_REF (1)", "cached": false, "index": 4, "times": [{"starting_time": 1793701063799, "ending_time": 1793701063887}, {"starting_time": 1793701063887, "ending_time": 1793701063971, "label": "1.8s \/ 3.6 MB"}, {"starting_time": 1793701063971, "ending_time": 1793701065598}]},
+        {"label": "SCORE_RANK (1)", "cached": false, "index": 5, "times": [{"starting_time": 1793701065644, "ending_time": 1793701065698}, {"starting_time": 1793701065698, "ending_time": 1793701065734, "label": "1.8s \/ 3.3 MB"}, {"starting_time": 1793701065734, "ending_time": 1793701067433}]},
+        {"label": "HANDOFF (1)", "cached": false, "index": 6, "times": [{"starting_time": 1793701067543, "ending_time": 1793701067635}, {"starting_time": 1793701067635, "ending_time": 1793701067710, "label": "1.9s \/ 3.4 MB"}, {"starting_time": 1793701067710, "ending_time": 1793701069405}]},
+        {"label": "CONSTRUCT_DESIGN (1)", "cached": false, "index": 7, "times": [{"starting_time": 1793701069449, "ending_time": 1793701069504}, {"starting_time": 1793701069504, "ending_time": 1793701072092, "label": "4.3s \/ 60.9 MB"}, {"starting_time": 1793701072092, "ending_time": 1793701073795}]}
     ]
 }
 ;

@@ -1,1 +1,11 @@
+ctrl_bFMO_Q83XK4|Q83XK4|flavin_monooxygenase	ref_bFMO_maminisulfidivorans|Q83XK4|flavin_monooxygenase	100	456	0.0	965	100
+ctrl_ndoB_P0A110|P0A110|naphthalene_dioxygenase_alpha	ref_ndoB_pseudomonas_9816|P0A110|naphthalene_dioxygenase_alpha	100	449	0.0	922	100
 cand_tnaA_ecoli|P0A853|tryptophanase	ref_tnaA_ecoli|P0A853|tryptophanase	100	471	0.0	946	100
+cand_StyA_O06834|O06834|styrene_monooxygenase_A	ref_styA_pfluorescens|O06834|styrene_monooxygenase_A	100	415	4.42e-316	842	100
+cand_StyB_O06835|O06835|styrene_monooxygenase_B	ref_styB_pfluorescens|O06835|styrene_monooxygenase_B	100	170	1.31e-124	337	100
+cand_bFMO_A0A1I3XW35|A0A1I3XW35|flavin_monooxygenase	ref_bFMO_maminisulfidivorans|Q83XK4|flavin_monooxygenase	97.1	456	0.0	943	100
+cand_bFMO_A0A1E3GUV8|A0A1E3GUV8|flavin_monooxygenase	ref_bFMO_maminisulfidivorans|Q83XK4|flavin_monooxygenase	87.1	456	2.47e-323	864	100
+cand_bFMO_A0ABQ5U0Z0|A0ABQ5U0Z0|flavin_monooxygenase	ref_bFMO_maminisulfidivorans|Q83XK4|flavin_monooxygenase	100	456	0.0	965	100
+cand_bFMO_A0ABN0TY91|A0ABN0TY91|flavin_monooxygenase	ref_bFMO_maminisulfidivorans|Q83XK4|flavin_monooxygenase	96.9	456	0.0	941	100
+cand_ndoB_Q51494|Q51494|naphthalene_dioxygenase_alpha	ref_ndoB_pseudomonas_9816|P0A110|naphthalene_dioxygenase_alpha	90.0	449	3.58e-321	858	100
+cand_ndoB_O07824|O07824|naphthalene_dioxygenase_alpha	ref_ndoB_pseudomonas_9816|P0A110|naphthalene_dioxygenase_alpha	95.8	449	0.0	890	100

@@ -1,2 +1,12 @@
 id	acc	role	mean_plddt	frac_plddt_ge70	status
+ctrl_bFMO_Q83XK4	Q83XK4	flavin_monooxygenase	97.7	0.99	ok
+ctrl_ndoB_P0A110	P0A110	naphthalene_dioxygenase_alpha	97.1	0.99	ok
 cand_tnaA_ecoli	P0A853	tryptophanase	96.6	1.00	ok
+cand_StyA_O06834	O06834	styrene_monooxygenase_A	97.3	0.99	ok
+cand_StyB_O06835	O06835	styrene_monooxygenase_B	92.9	0.93	ok
+cand_bFMO_A0A1I3XW35	A0A1I3XW35	flavin_monooxygenase	97.6	0.99	ok
+cand_bFMO_A0A1E3GUV8	A0A1E3GUV8	flavin_monooxygenase	97.5	0.98	ok
+cand_bFMO_A0ABQ5U0Z0	A0ABQ5U0Z0	flavin_monooxygenase	NA	NA	no_model
+cand_bFMO_A0ABN0TY91	A0ABN0TY91	flavin_monooxygenase	NA	NA	no_model
+cand_ndoB_Q51494	Q51494	naphthalene_dioxygenase_alpha	97.3	0.99	ok
+cand_ndoB_O07824	O07824	naphthalene_dioxygenase_alpha	NA	NA	no_model

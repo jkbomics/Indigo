@@ -6,6 +6,7 @@ include { STRUCT_QC                } from './modules/local/struct_qc'
 include { PATHWAY_FBA              } from './modules/local/pathway_fba'
 include { SCORE_RANK               } from './modules/local/score_rank'
 include { HANDOFF                  } from './modules/local/handoff'
+include { CONSTRUCT_DESIGN         } from './modules/local/construct_design'
 
 workflow {
     if (!params.model) {
@@ -15,6 +16,7 @@ workflow {
     cand_csv = channel.fromPath(params.candidates, checkIfExists: true)
     ref_csv  = channel.fromPath(params.references, checkIfExists: true)
     model    = channel.fromPath(params.model,      checkIfExists: true)
+    constructs = channel.fromPath(params.constructs, checkIfExists: true)
 
     // 1. sequences from UniProt
     FETCH_CAND(cand_csv)
@@ -32,4 +34,7 @@ workflow {
     // 5. rank + wet-lab handoff package
     SCORE_RANK(DIAMOND_REF.out.hits, STRUCT_QC.out.table)
     HANDOFF(SCORE_RANK.out.ranked, PATHWAY_FBA.out.summary)
+
+    // 6. shortlisted sequences, codon-optimised CDS, construct designs
+    CONSTRUCT_DESIGN(FETCH_CAND.out.fasta, SCORE_RANK.out.ranked, constructs)
 }

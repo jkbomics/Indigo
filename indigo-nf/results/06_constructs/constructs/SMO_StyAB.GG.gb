@@ -1,0 +1,82 @@
+LOCUS       SMO_StyAB_GG            1808 bp    DNA     linear   UNK 01-JAN-1980
+DEFINITION  SMO_StyAB GG cassette (design, not verified in the lab).
+ACCESSION   SMO_StyAB_GG
+VERSION     SMO_StyAB_GG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..6
+                     /label="5' pad"
+     misc_feature    7..12
+                     /label="BsaI"
+     misc_feature    13
+                     /label="N1"
+     misc_feature    14..17
+                     /label="5' overhang"
+     CDS             18..1262
+                     /label="cand_StyA_O06834"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation="MKKRIGIVGAGTAGLHLGLFLRQHDVDVTVYTDRKPDEYSGLRLL
+                     NTVAHHAVTVQREVALDVNEWPSEEFGYFGHYYYVGGSQPMRFYGDLKAPSRAVDYRLY
+                     QPMLMRALEARGGKSCYDDVSTEDLEGLSEQYDLLVVCTGKNALGKVFEKQSENSPFEK
+                     PQRALCVGLFKGIKEAPIRAVTMSFSPGHGELIEIPTLSFNGMSTALVLENHIGSDLEV
+                     LAHTKYDDDPRAFLDLMLEKLRKHHPSVAERIDPAEFDLANSSLDILQGGVVPAFRDGH
+                     ATLSNGKTIIGLGDVQATVDPVLGQGANMASHAAWILGEEILAHSVYDLRFSEHLERRR
+                     QDRVLCATRWTNFILSALSALPPEFLAFLQILSQSREMADEFTDNFNYPERQWDRFSSP
+                     ERIGQWCNQYAPTIAA"
+     misc_feature    1263..1264
+                     /label="spacer"
+     regulatory      1265..1278
+                     /label="RBS"
+     CDS             1279..1791
+                     /label="cand_StyB_O06835"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation="MTLKKDVAVDIDSTCFRQAVALFATGIAVLSAETEEGEVHGMTVN
+                     SFTSISLDPPTVMVSLKSGRMHELLTRGGRFGVSLLGESQKVFSAFFSKRVMDDTPSPA
+                     FTIQAGLPTLRDAMAWFECEVESTVQVHDHTLFIARVSACGTPEANAPQPLLFFASRYH
+                     GKPLPLN"
+     misc_feature    1792..1795
+                     /label="3' overhang"
+     misc_feature    1796
+                     /label="N1"
+     misc_feature    1797..1802
+                     /label="BsaI (reverse)"
+     misc_feature    1803..1808
+                     /label="3' pad"
+ORIGIN
+        1 ttaattggtc tcaaatgaaa aaacgcatag gtattgttgg tgcaggcact gcgggactgc
+       61 atttaggcct gttcctgcgg cagcacgacg tagatgtgac cgtgtacaca gatcgaaaac
+      121 cggatgaata cagtggtctg cgcttattga acaccgttgc gcatcatgca gtaaccgtac
+      181 agcgtgaagt ggcattagac gttaacgaat ggccgagtga ggaatttggc tattttggcc
+      241 actactacta tgttggggga tcccagccca tgcggtttta cggggatctg aaagccccga
+      301 gcagagcggt cgattatcgt ctgtatcagc cgatgcttat gcgtgccctg gaagcccgcg
+      361 gtggcaaaag ctgctatgat gatgtgagca ctgaagacct ggagggccta tcggagcaat
+      421 atgacctgct cgtcgtgtgc acgggtaaaa acgccctggg taaggtgttt gagaagcaat
+      481 cggaaaattc accattcgag aaaccgcagc gagcactctg tgtcggactg ttcaagggca
+      541 ttaaagaagc gccaattcgc gcagtgacca tgagctttag cccaggccat ggcgagctta
+      601 ttgaaatccc aacgctttcg ttcaatggca tgtccacggc gctggtcctt gaaaaccaca
+      661 ttggctctga cctggaagtt ctggcccaca cgaaatatga tgatgatccg cgcgcctttc
+      721 tggacttaat gttggaaaag ctacgcaaac accatccctc tgtggcggaa cgcattgatc
+      781 cggcggaatt tgatctcgct aactcatctc tggatatcct gcaaggtggt gtggttccgg
+      841 cgtttcgcga cggtcatgcc acgctgtcta atggcaaaac catcatcggg ttaggggacg
+      901 ttcaggcgac agtcgatccg gtactgggtc aaggcgcgaa tatggctagc catgcagctt
+      961 ggattttggg ggaagagatt ttggcacatt ccgtgtatga cctgcgtttc tcagagcacc
+     1021 tcgaacgtcg tcgtcaggat cgcgtattgt gcgcgacccg ctggactaac ttcatcttaa
+     1081 gcgccctgag tgcgcttcct ccggaattcc tggcttttct gcagatcttg tcgcagagcc
+     1141 gtgaaatggc ggacgaattc accgataact ttaattaccc tgagcggcaa tgggatcgtt
+     1201 tttccagtcc ggaacgtatt ggtcagtggt gtaatcaata tgcccctacc atcgctgctt
+     1261 aataaaggag atataaaaat gacactgaaa aaggatgttg cagtcgatat cgactctact
+     1321 tgcttccgtc aggctgtcgc cctgtttgct accgggattg cagtgttgtc cgcggaaacg
+     1381 gaagaaggtg aggtgcacgg catgacggta aactcgttca ccagcatcag tctggatccc
+     1441 ccgacggtta tggtttcact aaaatctggc cgtatgcatg aacttctgac gcgcggcggt
+     1501 cgttttggag tgtccctgct gggcgaatcg caaaaagtgt ttagcgcctt cttctctaag
+     1561 cgcgttatgg acgatacacc aagcccagcc tttaccattc aggccgggtt accgacctta
+     1621 cgggatgcga tggcgtggtt tgagtgcgag gtggaaagca ccgtccaagt acacgaccat
+     1681 acccttttta ttgcgcgcgt gtcagcatgt ggtactcctg aagcgaatgc accgcagccg
+     1741 ttgctgtttt tcgcgagtcg atatcatggt aaaccgctcc ctctgaacta agctttgaga
+     1801 ccaattaa
+//

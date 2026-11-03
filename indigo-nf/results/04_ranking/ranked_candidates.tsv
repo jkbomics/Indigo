@@ -1,2 +1,12 @@
 id	acc	role	best_ref	pident	qcov	mean_plddt	score	flags
+ctrl_bFMO_Q83XK4	Q83XK4	flavin_monooxygenase	ref_bFMO_maminisulfidivorans	100.0	100.0	97.7	0.9885	-
+cand_StyA_O06834	O06834	styrene_monooxygenase_A	ref_styA_pfluorescens	100.0	100.0	97.3	0.9865	-
+ctrl_ndoB_P0A110	P0A110	naphthalene_dioxygenase_alpha	ref_ndoB_pseudomonas_9816	100.0	100.0	97.1	0.9855	-
 cand_tnaA_ecoli	P0A853	tryptophanase	ref_tnaA_ecoli	100.0	100.0	96.6	0.983	-
+cand_bFMO_A0A1I3XW35	A0A1I3XW35	flavin_monooxygenase	ref_bFMO_maminisulfidivorans	97.1	100.0	97.6	0.9735	-
+cand_StyB_O06835	O06835	styrene_monooxygenase_B	ref_styB_pfluorescens	100.0	100.0	92.9	0.9645	-
+cand_ndoB_Q51494	Q51494	naphthalene_dioxygenase_alpha	ref_ndoB_pseudomonas_9816	90.0	100.0	97.3	0.9365	-
+cand_bFMO_A0A1E3GUV8	A0A1E3GUV8	flavin_monooxygenase	ref_bFMO_maminisulfidivorans	87.1	100.0	97.5	0.923	-
+cand_bFMO_A0ABQ5U0Z0	A0ABQ5U0Z0	flavin_monooxygenase	ref_bFMO_maminisulfidivorans	100.0	100.0	NA	0.5	no_af_model
+cand_bFMO_A0ABN0TY91	A0ABN0TY91	flavin_monooxygenase	ref_bFMO_maminisulfidivorans	96.9	100.0	NA	0.4845	no_af_model
+cand_ndoB_O07824	O07824	naphthalene_dioxygenase_alpha	ref_ndoB_pseudomonas_9816	95.8	100.0	NA	0.479	no_af_model

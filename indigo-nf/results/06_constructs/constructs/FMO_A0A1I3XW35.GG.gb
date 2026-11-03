@@ -1,0 +1,63 @@
+LOCUS       FMO_A0A1I3XW35_G        1402 bp    DNA     linear   UNK 01-JAN-1980
+DEFINITION  FMO_A0A1I3XW35 GG cassette (design, not verified in the lab).
+ACCESSION   FMO_A0A1I3XW35_GG
+VERSION     FMO_A0A1I3XW35_GG
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..6
+                     /label="5' pad"
+     misc_feature    7..12
+                     /label="BsaI"
+     misc_feature    13
+                     /label="N1"
+     misc_feature    14..17
+                     /label="5' overhang"
+     CDS             18..1385
+                     /label="cand_bFMO_A0A1I3XW35"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation="MATRIAILGAGPSGMAQLRAFQSAQEKGAEIPELVCFEKQADWGG
+                     QWNYTWRTGLDENGEPVHSSMYRYLWSNGPKECLEFADYTFDEHFGKPIASYPPREVLW
+                     DYIKGRVEKAGVRKYIRFNTAIRHVEFNEDSQTFTVTVQDHVTDTIYSEEFDYVVCCTG
+                     HFSTPYVPEFEGFGKFGGRILHAHDFRDALEFKDKTVLLVGSSYSAEDIGSQCYKYGAK
+                     KLISCYRTAPMDYKWPENWDERPNLVRVDTETAYFADGSSEKVDAIILCTGYIHHFPFL
+                     NDDLRLVTNNRLWPLGLYKGVVWEDNPKFFYIGMQDQWYSFNMFDAQAWYARDVIMGRI
+                     PLPSKEEMKADSMAWREEELKMVTAEDMYTYQGNYIQQLIDMTDYPSFDIPATNKTFLE
+                     WKHHKKENIMTFRDHSYRSLMTGTMAPKHHTPWIDALDDSLEAYLSDKSEIPVAKEA"
+     misc_feature    1386..1389
+                     /label="3' overhang"
+     misc_feature    1390
+                     /label="N1"
+     misc_feature    1391..1396
+                     /label="BsaI (reverse)"
+     misc_feature    1397..1402
+                     /label="3' pad"
+ORIGIN
+        1 ttaattggtc tcaaatggca acccgtattg cgattttagg tgcgggccct tcaggtatgg
+       61 ctcaactgcg ggcatttcaa agcgctcagg aaaaaggtgc cgaaattccg gagttggtgt
+      121 gttttgaaaa gcaggcagat tggggtggtc aatggaatta cacctggcgt acaggtctgg
+      181 acgaaaacgg ggaaccggtg cattcatcga tgtaccgcta tctttggtct aatggaccca
+      241 aagagtgcct cgaattcgcg gattatacct ttgatgaaca tttcggcaaa cctatcgcga
+      301 gctatccgcc gcgtgaagtg ctgtgggatt acattaaagg ccgcgtagaa aaagcgggtg
+      361 tccgtaaata catcaggttt aatactgcca ttcgccacgt cgagtttaat gaggattcgc
+      421 agacatttac cgtgacggtg caggatcacg tgacagatac catttacagt gaggagttcg
+      481 attacgttgt atgctgtacc ggccatttct ctaccccgta tgtgcctgaa tttgaaggct
+      541 ttggaaaatt tggcggtcgc atattgcacg cccacgattt tcgtgacgcc ttagagttta
+      601 aagataaaac cgtgctcctg gtgggcagca gttactcagc cgaagacatc ggcagccagt
+      661 gttacaagta cggggcgaaa aaacttattt cctgctatcg caccgctccg atggattata
+      721 aatggccgga aaattgggat gaacggccaa acctcgttcg cgttgatacc gaaactgcat
+      781 attttgcgga cgggagctct gagaaagttg atgccatcat cctgtgcacg ggctatatcc
+      841 atcacttccc gttcctgaat gatgatctgc gtctggtcac taacaaccga ctgtggccac
+      901 tgggcttgta taaaggggtc gtttgggaag acaatccaaa gttcttctac attggcatgc
+      961 aggaccagtg gtattccttc aacatgttcg atgcacaagc ttggtatgcg cgtgacgtaa
+     1021 tcatgggtag aattccgttg ccgtctaaag aagaaatgaa agcagacagt atggcgtggc
+     1081 gtgaagaaga actgaaaatg gttacggccg aagacatgta cacctatcaa ggtaactaca
+     1141 ttcagcagct gatcgacatg accgactatc catcgtttga tattccggcc acaaacaaga
+     1201 cgttcctaga gtggaaacat cacaagaagg agaacatcat gacgtttcgc gatcatagct
+     1261 atcgctccct tatgactgga acgatggcac ccaaacatca tacgccgtgg atcgacgccc
+     1321 tggatgactc cctggaagct tatttatcgg ataaaagcga gattcccgtc gcgaaagaag
+     1381 cgtaagcttt gagaccaatt aa
+//
